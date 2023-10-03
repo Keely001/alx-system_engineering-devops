@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creating a script that uses case statements
+# Bash script that displays the time for 12 hours and 59 minutes
 x=1
 while [ $x -le 20 ]
 do
